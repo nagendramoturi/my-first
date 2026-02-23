@@ -2,7 +2,7 @@
 [12:07 PM, 2/23/2026] Nagendra Naidu: <h1 align="center">Hi 👋, I'm M bhargava nagendra</h1>
 <h3 align="center">A passionate full stack developer from india</h3>
 
-- 👨‍💻 All of my projects are available at [Nagendra mouturi](Nagendra mouturi)
+- 👨‍💻 All of my projects are available at Nagendra mouturi
 
 - 📫 How to reach me *23252cm153bvts@gmail.com*
 
